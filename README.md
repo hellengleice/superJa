@@ -6,12 +6,12 @@
 **Projeto:** Aplicativo de Delivery
 
 **Integrantes:**
-- Abiqueila de Souza
-- Evelyn Pereira
-- Hellen Gleice
-- Isabela Santos
-- Maytê Araújo
-- Thainara Cruz
+- [Abiqueila de Souza](https://github.com/abilafora)
+- [Evelyn Pereira](https://github.com/evelyn-pereira)
+- [Hellen Gleice](https://github.com/hellengleice)
+- [Isabela Santos](https://github.com/isabelasantos)
+- [Maytê Araújo](https://github.com/maytearaujo)
+- [Thainara Cruz](https://github.com/thainaracruz)
 
 ## Objetivo
 
