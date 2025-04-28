@@ -1,7 +1,6 @@
 # Documentação Super Já
 
 **Link do Repositório:** [GitHub - SuperJa](https://github.com/abilafora/superJa)  
-**Link do Banco de Dados:** [Banco de Dados - SuperJá](https://superja.onrender.com)
 
 **Projeto:** Aplicativo de Delivery
 
