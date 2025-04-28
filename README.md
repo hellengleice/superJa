@@ -116,6 +116,6 @@ O **SuperJá** é um aplicativo de delivery destinado a realizar entregas de com
 ### Pré-requisitos:
 - **Java 17 ou superior**: O projeto usa o Spring Boot 2.x.
 - **IDE** (como STS): Para editar e rodar o projeto.
-- **Maven**: Para gerenciar dependências.
+- **Maven**: Para gerenciar dependências
 
 ---
