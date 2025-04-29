@@ -2,7 +2,7 @@
 
 **Link do Repositório:** [GitHub - SuperJa](https://github.com/abilafora/superJa)  
 
-**Projeto:** Aplicativo de Delivery
+**Projeto:** Aplicação de Delivery 
 
 **Integrantes:**
 - [Abiqueila de Souza](https://github.com/abilafora)
@@ -14,7 +14,7 @@
 
 ## Objetivo
 
-O **SuperJá** é um aplicativo de delivery destinado a realizar entregas de compras feitas em supermercados. Ele permite o cadastro de usuários, gerenciamento de produtos e associação dos produtos a suas respectivas categorias.
+O **SuperJá** é um sistema de delivery de supermercado. Ele permite o cadastro de usuários, gerenciamento de produtos e associação dos produtos a suas respectivas categorias.
 
 ---
 
